@@ -8,7 +8,7 @@ $ docker run -it --rm ghcr.io/hexhelix-xx/makarov:latest
 ```
 manually install
 ```
-$ cd ghcr.io/hexhelix-xx/makarov:latest
+$ cd Makarov-Mark-II
 $ docker build -t makarov:latest .
 $ docker run -it --rm  makarov:latest 
 ▽  / >>
