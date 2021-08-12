@@ -7,7 +7,7 @@ fast install
 $ docker run -it --rm ghcr.io/hexhelix-xx/makarov:latest
 ```
 manually install
-```shell
+```
 $ cd ghcr.io/hexhelix-xx/makarov:latest
 $ docker build -t makarov:latest .
 $ docker run -it --rm  makarov:latest 
