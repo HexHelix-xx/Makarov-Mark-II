@@ -30,4 +30,4 @@ RUN { \
     } > /etc/tor/torrc
 
 RUN rm -frv .bashrc && \
-    curl -o $HOME/.bashrc https://gist.githubusercontent.com/HexHelix-xx/a91571d7350086393efb5f12d1d4b041/raw/ed45a843f5f639845b53d9161b74f85ba7f29449/.bashrc
+    curl -o $HOME/.bashrc https://gist.githubusercontent.com/HexHelix-xx/a91571d7350086393efb5f12d1d4b041/raw/459ed399f7a209de2509e61440a41258ea1d5381/.bashrc
